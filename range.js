@@ -9,4 +9,4 @@ function fun1(count) {
   return arr;
 }
 const a = fun1(10);
-console.log(arr1)
+console.log(a);
