@@ -8,5 +8,5 @@ function fun1(count) {
   }
   return arr;
 }
-fun1()
+const a = fun1(10);
 console.log(arr1)
